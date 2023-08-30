@@ -1,0 +1,16 @@
+{
+  "name": "crud-tasks-api",
+  "version": "1.0.0",
+  "description": "Repositório do primeiro desafio da trilha Ignite Node.js de 2022",
+  "author": "marcel kaled mgck.dev@proton.me",
+  "license": "MIT",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "scripts": {
+    "dev": "node --no-warnings --watch src/server.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.7"
+  }
+}
