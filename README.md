@@ -48,7 +48,7 @@ Antes das rotas, vamos entender qual a estrutura (propriedades) que uma task dev
 - `created_at` - Data de quando a *task* foi criada.
 - `updated_at` - Deve ser sempre alterado para a data de quando a *task* foi atualizada.
 
-### Rotas:
+### Rotas
 
 #### `POST - /tasks`
 
@@ -85,7 +85,7 @@ Antes das rotas, vamos entender qual a estrutura (propriedades) que uma task dev
 
 ## Licença
 
-Distribuído sob a licença _MIT_. Veja [LICENSE](LICENSE) para mais informações.  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+Distribuído sob a licença ***MIT***. Veja [LICENSE](LICENSE) para mais informações.  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 
 ---
 
