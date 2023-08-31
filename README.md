@@ -77,6 +77,10 @@ Antes das rotas, vamos entender qual a estrutura (propriedades) que uma task dev
 - Deve ser possível marcar a *task* como completa ou não. Isso significa que se a *task* estiver concluída, deve voltar ao seu estado “normal”.
 - Antes da alteração, deve ser feito uma validação se o `id` pertence a uma *task* salva no banco de dados.
 
+### Código Comentado
+
+Acesse análises e comentários sobre o código [AQUI](./.github/docs/index.md).
+
 ## Tecnologias
 
 - [`Node.js`](https://nodejs.org/n/)
